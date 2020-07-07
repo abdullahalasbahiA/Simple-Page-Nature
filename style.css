@@ -49,7 +49,7 @@ ul li.active a{
     font-size: 40px;
     color: white;
     font-family: monospace;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 .main{
