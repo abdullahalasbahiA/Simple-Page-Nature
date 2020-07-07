@@ -41,11 +41,14 @@ ul li.active a{
     color: #000;
 }
 
-.logo img{
+.logo h1{
     float: left;
     margin: 10px;
     width: 150px;
     height: auto;
+    font-size: 40px;
+    color: white;
+    font-family: monospace;
 }
 
 .main{
